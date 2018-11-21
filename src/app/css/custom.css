@@ -1,0 +1,21 @@
+
+.font {
+    font-family: "Arial Black";
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    ext-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+    color: #204b67 !important;
+}
+.pad-top-50 {
+    padding-top: 50px;
+}
+.navbar-color {
+    height: 100%;
+    width: 100%;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    background: linear-gradient(124deg, #192aff, #3e72ff, #55a9ff, #b4d6ff, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+    background-size: 1800% 1800%;
+}
